@@ -12,7 +12,7 @@ ACTIVE_PROFILE: dev
 # Email Config
 EMAIL_HOST: smtp.gmail.com
 EMAIL_PORT: 587
-EMAIL_ID: manu1999manohar@gmail.com
+EMAIL_ID: manu@gmail.com
 EMAIL_PASSWORD:
 
 VERIFY_EMAIL_HOST: http://localhost:8085
